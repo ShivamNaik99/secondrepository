@@ -1,4 +1,4 @@
 # secondrepository
 This is my second repository
 <br>
-Author - Shivam Naik
+Author - Shivam Naik (writer)
